@@ -11,7 +11,7 @@ I am a frontend engineer who specializes in React and Node.js®. I eat TypeScrip
 - **Testing tools**: Jest/mocha, React Testing Library, Cypress, Playwright, Vitest
 - Git, CI/CD, Unix-like scripting, and a11y
 
-Aside from the things listed above, I also have some knowledge regarding Docker, Kubernetes, Envoy, nginx, SQL, NoSQL, Python, PHP, and Google Analytics. Here are some of the things that I want to learn (or learn further) in 2022:
+Aside from the things listed above, I also have some knowledge regarding Docker, Kubernetes, Envoy, nginx, SQL, NoSQL, Python, PHP, and Google Analytics. Here are some of the things that I want to learn (or learn further) in 2023:
 
 - **The basics**: This mostly revolves around HTML semantics and native built-in JavaScript features.
 - **Compiled language**: I started learning Golang last year and I'm excited that I have shipped a service to production with that knowledge. Still, I am looking forward to extending the Golang knowledge more.
