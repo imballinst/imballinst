@@ -14,7 +14,7 @@ I am a frontend engineer who specializes in React and Node.js®. I eat TypeScrip
 Aside from the things listed above, I also have some knowledge regarding deployments (Docker, Kubernetes, Envoy, nginx), databases (MySQL, PostgreSQL, Mongo), and Google Analytics. Here are some of the things that I want to learn (or learn further) in 2023:
 
 - **The basics**: This mostly revolves around HTML semantics and native built-in JavaScript features.
-- **Other human! language**: Currently I can only speak Indonesian and probably I am pretty good at English, too. But I want to expand on this a little bit more, maybe Japanese? 😄
+- **Another human! language**: Currently I can only speak Indonesian and probably I am pretty good at English, too. But I want to expand on this a little bit more, maybe Japanese? 😄
 - **Public speaking**: Last year and the year before 😅 (2022-2023) was pretty quiet year from me, compared to 2021 where I spoke few times in meetups/conferences. This year, I want to get back into that.
 
 If you love the open-source works that I am doing, please consider [sponsoring](https://github.com/sponsors/imballinst) me! That will mean the world to me and keep my motivation going to contribute back to the community. Thanks!
